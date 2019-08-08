@@ -1,0 +1,12 @@
+.top-row{
+  background-color: #20b1aa;
+  min-height: 30vh;
+}
+.small-font{
+  font-size: 12px;
+}
+
+.button-color{
+  background-color: white;
+  color: #20b1aa;
+}

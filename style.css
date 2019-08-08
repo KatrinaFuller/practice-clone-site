@@ -24,3 +24,15 @@
 .words{
   color: #3997d2
 }
+
+.little-row{
+  background-color: #20b1aa;
+  min-height: 10vh;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+input::placeholder{
+  font-size: 13px;
+
+}

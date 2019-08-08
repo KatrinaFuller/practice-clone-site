@@ -43,3 +43,14 @@ input::placeholder{
   margin-left: 130px;
   margin-right: 130px;
 }
+
+.client-row{
+  background-color: aquamarine;
+  min-height: 15vh;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+.img{
+  max-height: 15vh;
+}

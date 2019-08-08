@@ -36,3 +36,10 @@ input::placeholder{
   font-size: 13px;
 
 }
+
+.info-row{
+  background-color: wheat;
+  min-height: 27vh;
+  margin-left: 130px;
+  margin-right: 130px;
+}
